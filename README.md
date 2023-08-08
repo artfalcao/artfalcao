@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Arthur Falcão. 👋
 - 🧪 Bacharel em Química (UFPE)
-- 💻 Cursando Análise e Desenvolvimento de Sistemas (SENAC 3/5)
+- 💻 Cursando Análise e Desenvolvimento de Sistemas (SENAC 4/5)
 - 🌱 Recentemente venho aprendendo Typescript, Reactjs e Nodejs
 
 <div align="center">
