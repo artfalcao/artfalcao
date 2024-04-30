@@ -1,7 +1,6 @@
-### Olá! Eu sou o Arthur Falcão. 👋
-- 🧪 Bacharel em Química (UFPE)
-- 💻 Cursando Análise e Desenvolvimento de Sistemas (SENAC 4/5)
-- 🌱 Recentemente venho aprendendo Typescript, Reactjs e Nodejs
+### Hello there! My name is Arthur, a Full Stack Developer. 👋
+- 💻 Graduated in Systems Analysis and Development from Senac-PE
+- 🌱Recently, I've been looking to study deeper React and Node ecosystems
 
 <div align="center">
   <a href="https://github.com/artfalcao">
@@ -22,6 +21,4 @@
   
 <div> 
   <a href="https://www.linkedin.com/in/arthurmfalcao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/arthurmonteirofalcao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:arthurmonteirofalcao1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
