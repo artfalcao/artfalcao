@@ -1,6 +1,6 @@
 ### Hello there! My name is Arthur, a Full Stack Developer. 👋
 - 💻 Graduated in Systems Analysis and Development from Senac-PE
-- 🌱Recently, I've been looking to study deeper React and Node ecosystems
+- 🌱Recently, I've been working on AI-based solutions developed using Python, FastAPI, Generative AIs (Openai LLM) and AWS Services
 
 <div align="center">
   <a href="https://github.com/artfalcao">
