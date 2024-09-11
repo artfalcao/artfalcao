@@ -1,4 +1,4 @@
-### Hello there! My name is Arthur, a Full Stack Developer. 👋
+### Hello there! My name is Arthur, a Software Engineer | Data Engineer . 👋
 - 💻 Graduated in Systems Analysis and Development from Senac-PE
 - 🌱Recently, I've been working on AI-based solutions developed using Python, FastAPI, Generative AIs (Openai LLM) and AWS Services
 
